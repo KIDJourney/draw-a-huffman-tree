@@ -1,12 +1,10 @@
 Darw huffman tree 
 ========
 
-*********************
-
 INTRO
 --------
 
-Darw a huffman tree with your input string !
+Darw a huffman tree with your input string .
 
 Maybe you can use this repo to as your homework submit XD
 
@@ -26,6 +24,6 @@ USAGE
     
     python drawhuffmancoding [Your string here]
 
+Then a litte turtle will appear and draw you a tree .
 
-
-
+Have fun .
